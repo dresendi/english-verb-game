@@ -23,6 +23,7 @@ The production build is a static export in `out/`; it can be hosted by any stati
 
 ## Games
 
+- **Spooky Sentence Lab.** A worksheet of 10 Halloween-themed sentences with the base verb in parentheses and a requested tense. Type the complete missing phrase, including auxiliaries when necessary. Practices present simple, past simple, present/past continuous, present perfect, and will-future. Check all answers together for individual explanations, a score out of ten, and 10 XP per correct answer. Answers remain while switching sections during the visit; reloading starts a fresh worksheet. Worksheet XP and completed missions persist, but worksheet answers do not change verb-form mastery or the picture-game review queue.
 - **Picture it. Name it.** An illustration and meaning clue identify a verb. Type its requested base, past simple, or past participle form. Select a particular form or mix all three. The supplied visual reference informs the picture-first concept; answers remain open text rather than multiple choice.
 - **One verb. Three powers.** The same illustration and the base form appear; type the past simple and past participle in two separate fields.
 - Missions contain up to 10 distinct verbs. Choose all verbs or one of ten groups. Mistakes and hint-assisted answers enter an extra-practice queue.
